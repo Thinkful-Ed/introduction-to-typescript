@@ -27,7 +27,7 @@ let ages = [30, 25, 35];
 let firstName = firstElement(names); // Automatically inferred as firstElement<string>
 let firstAge = firstElement(ages); // Automatically inferred as firstElement<number>
 
-// Typle basic type example
+// Tuple basic type example
 let book: [string, string, number] = ["The Hobbit", "J.R.R. Tolkien", 295];
 
 // Enum basic type example
